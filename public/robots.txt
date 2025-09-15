@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Allow: /
 
-Sitemap: https://materialssciencesummit.com/sitemap.xml
+Sitemap: https://materials-summit.com/sitemap.xml
